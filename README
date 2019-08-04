@@ -1,0 +1,7 @@
+To run the software.
+
+type in bash:
+
+make
+./parser.output "Valid Program.ml" for valid program.
+./parser.output "Error Program.ml" for error program.
